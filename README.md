@@ -3,7 +3,7 @@
 AI-powered React component generator with live preview.
 
 ## Prerequisites
-
+- adding a new step to test claude mention functionality for claude-code-app integrated with gh. 
 - Node.js 18+
 - npm
 
